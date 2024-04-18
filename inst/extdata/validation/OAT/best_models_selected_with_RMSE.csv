@@ -1,0 +1,5 @@
+"cor","RMSE","MAE","SumLogLikelihood","AIC","nr_of_variables","env_variables","used_envs","pheno_phase"
+0.537617441814956,5.6965466118341,2.75787488908607,61016.2640276153,657044.205952098,6,"tas_tasmin_tasmax_RH_global_radiation_SPI",9016,"sowing-emergence"
+0.431523707773931,13.0622974576904,6.68640728884511,66188.479783972,1402495.94291473,6,"tas_tasmin_tasmax_RH_global_radiation_VPD",8122,"emergence-jointing"
+0.611569774920312,12.1252504102459,2.70006381620932,24800.1700890136,587349.50287571,5,"tas_tasmin_tasmax_global_radiation_VPD",3134,"jointing-senescence"
+0.125684841966432,5.34077966150442,2.77310231023102,8154.68326990569,79451.2491469736,6,"tas_tasmin_tasmax_RH_SPI_VPD",1212,"senescence-harvest"

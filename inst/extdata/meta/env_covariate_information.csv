@@ -1,0 +1,8 @@
+env_covariate,long_name,unit,additional_infroamtion
+tas,daily mean temperature,degree Celsius,
+tasmin,daily minimal temeprature,degree Celsius,
+tasmax,daily maximal temeprature,degree Celsius,
+SPI,Standardized Precipitation Index,Unit less,calculated with the package SPEI (https://cran.r-project.org/web/packages/SPEI/index.html) with a chosen itnervall of 30days to standardize
+RH,Relative humidity,percent,
+global_radiation,global incomming radiation ,J/m^2,
+VPD,Vapour Pressure Deficit,hPa,

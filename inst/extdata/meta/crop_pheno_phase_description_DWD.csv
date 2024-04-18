@@ -1,0 +1,36 @@
+ crop,abbrev,pheno_phase,start_pheno_phase_id,end_pheno_phase_id
+winter rye,WR,sowing-emergence,10,12
+winter rye,WR,emergence-jointing,12,15
+winter rye,WR,jointing-heading,15,18
+winter barley,WB,sowing-emergence,10,12
+winter barley,WB,emergence-jointing,12,15
+winter barley,WB,jointing-heading,15,18
+winter barley,WB,heading-senescence,18,22
+winter rapeseed,RS,sowing-emergence,10,12
+winter rapeseed,RS,emergence-bud,12,17
+winter rapeseed,RS,bud-senescence,17,22
+spring wheat,SW,sowing-emergence,10,12
+spring wheat,SW,emergence-jointing,12,15
+spring wheat,SW,jointing-heading,15,18
+spring wheat,SW,heading-senescence,18,22
+spring barley,SB,sowing-emergence,10,12
+spring barley,SB,emergence-jointing,12,15
+spring barley,SB,jointing-heading,15,18
+spring oat,OAT,sowing-emergence,10,12
+spring oat,OAT,emergence-jointing,12,15
+spring oat,OAT,jointing-senescence,15,22
+spring oat,OAT,senescence-harvest,22,24
+green bean,GB,sowing-emergence,10,12
+green bean,GB,emergence-flowering,12,5
+green bean,GB,flowering-harvest,5,24
+green pea,GP,sowing-emergence,10,12
+green pea,GP,emergence-flowering,12,5
+green pea,GP,flowering-harvest,5,24
+corn,MZ,sowing-emergence,10,12
+corn,MZ,emergence-flowering,12,5
+corn,MZ,flowering-yellowripe,5,21
+corn,MZ,yellowripe-harvest,21,24
+winter wheat,WW,sowing-emergence,10,12
+winter wheat,WW,emergence-jointing,12,15
+winter wheat,WW,jointing-heading,15,18
+winter wheat,WW,heading-senescence,18,22

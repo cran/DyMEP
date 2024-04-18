@@ -1,0 +1,4 @@
+"cor","RMSE","MAE","SumLogLikelihood","AIC","nr_of_variables","env_variables","used_envs","pheno_phase"
+0.0687836234475141,6.2494799783662,3.216,854.20090654968,11116.661316391,2,"tas_tasmax",125,"sowing-emergence"
+0.438533460888364,9.82210182244749,4.15789473684211,844.487386773308,17738.374861751,6,"tas_tasmin_tasmax_RH_global_radiation_SPI",114,"emergence-jointing"
+0.243100070249163,9.33966582904148,4.14678899082569,797.372150511321,14700.3700959285,2,"tasmin_SPI",109,"jointing-heading"
